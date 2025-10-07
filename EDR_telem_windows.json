@@ -21,7 +21,8 @@
     "Trellix":"Yes",
     "Trend Micro":"Yes",
     "Uptycs":"Yes",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "JokerEDR": "Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -45,7 +46,8 @@
     "Trellix":"No",
     "Trend Micro":"Via EnablingTelemetry",
     "Uptycs":"No",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "JokerEDR": "Yes"
   },
   {
     "Telemetry Feature Category":null,
